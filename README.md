@@ -1,4 +1,4 @@
-# Sixth-sens
+# Sixth-sense
 
 ## Description
 
